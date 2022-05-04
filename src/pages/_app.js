@@ -39,7 +39,6 @@ const MyApp = ({ Component, pageProps }) => {
       </Head>
       <div>
         <Component />
-        <button onClick={() => goArticleHandle()}>click me</button>
       </div>
     </>
   );

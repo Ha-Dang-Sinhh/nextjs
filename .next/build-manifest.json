@@ -29,10 +29,10 @@
       "static/chunks/webpack.js",
       "static/chunks/pages/_error.js"
     ],
-    "/bai-viet/[id]": [
+    "/filter": [
       "static/chunks/main.js",
       "static/chunks/webpack.js",
-      "static/chunks/pages/bai-viet/[id].js"
+      "static/chunks/pages/filter.js"
     ]
   },
   "ampFirstPages": []

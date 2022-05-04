@@ -1,15 +1,45 @@
 import React from "react";
-
-import "slick-carousel/slick/slick.css";
-import "slick-carousel/slick/slick-theme.css";
+import Slider from "../components/slide";
+import SlickSlider from "../components/SlickSlider";
+import ProductItem from "../components/ProductItem";
 
 const Index = () => {
+
+  
+
   return (
-    <>
-      <div className="wrapper-home-page">
-        
+    <div className=" bg-gray-400 ">
+      <div className=" w-auto mx-10 ">
+        <div>
+          <Slider></Slider>
+        </div>
+        <div className="mt-10">
+          <SlickSlider></SlickSlider>
+        </div>
+        <div className="h-full mt-10">
+          <div className="h-full grid grid-cols-3 gap-4">
+            <div className=""><ProductItem /></div>
+            <div className=""><ProductItem /></div>
+            <div className=""><ProductItem /></div>
+            <div className="col-span-2 "><ProductItem /></div>
+            <div className=""><ProductItem /></div>
+            <div className=""><ProductItem /></div>
+            <div className="col-span-2 "><ProductItem /></div>
+          </div>
+        </div>
+        <div className="h-full grid grid-cols-3 gap-36">
+          <div className="">
+            <ProductItem />
+          </div>
+          <div className="">
+            <ProductItem />
+          </div>
+          <div className="">
+            <ProductItem />
+          </div>
+        </div>
       </div>
-    </>
+    </div>
   );
 };
 
