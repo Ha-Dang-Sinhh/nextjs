@@ -2570,7 +2570,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_2__);
 
 
-var _jsxFileName = "H:\\nextJs\\next-cy\\src\\pages\\bai-viet\\[id].js";
+var _jsxFileName = "H:\\deployNext\\nextjs\\src\\pages\\bai-viet\\[id].js";
 
 
 

@@ -134,7 +134,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var slick_carousel_slick_slick_theme_css__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(slick_carousel_slick_slick_theme_css__WEBPACK_IMPORTED_MODULE_3__);
 
 
-var _jsxFileName = "H:\\nextJs\\next-cy\\src\\pages\\index.js";
+var _jsxFileName = "H:\\deployNext\\nextjs\\src\\pages\\index.js";
 
 
 
